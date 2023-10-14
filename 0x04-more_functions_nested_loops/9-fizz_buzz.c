@@ -1,8 +1,7 @@
 #include <stdio.h>
-#include "main.h"
 
 /**
- * main - main function
+ * main - main function print number from 1-100
  * Fizz Buzz test
  * Return: 0
  */
